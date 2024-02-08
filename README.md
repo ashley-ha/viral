@@ -1,8 +1,8 @@
-# Content Security Policy with Nonce
+# VIRAL
 
 This example shows how to create a Next.js application that sets a strict Content Security Policy (CSP) for your pages, including generating a dynamic nonce.
 
-## Deploy your own
+## Deploy your own project using CSP with Nonce
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-strict-csp&project-name=with-strict-csp&repository-name=with-strict-csp)
 
